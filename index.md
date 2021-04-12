@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 狗宁的第一篇博客
 
 You can use the [editor on GitHub](https://github.com/LiningZhu/linningzhu.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
